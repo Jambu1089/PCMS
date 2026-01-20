@@ -9,6 +9,7 @@ The system is designed to manage daily operations of a PC store, including users
 This project aims to reduce manual work, improve accuracy, and provide an efficient way to handle store management tasks.
 
 Features:
+
 🔐 Authentication & Authorization
 1. Secure login system
 2. Role-based access control
@@ -59,12 +60,14 @@ Features:
 
    
 🗃️ Database Structure
+
 The project uses SQL Server LocalDB with the following main tables:
 1. tbUser
 2. tbProduct
 3. tbCategory
 4. tbCustomer
 5. tbOrder
+
 Relationships are implemented using primary keys and foreign keys to maintain data integrity.
 
 
@@ -97,6 +100,7 @@ Relationships are implemented using primary keys and foreign keys to maintain da
 1. Use Case Diagram
 2. Activity Diagram
 3. ER Diagram
+
 These diagrams explain system behavior, workflow, and database structure.
 
 
